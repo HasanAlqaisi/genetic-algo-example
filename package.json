@@ -1,0 +1,16 @@
+{
+  "name": "genetic_algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": "tsc --watch",
+    "dev": "nodemon src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.4"
+  }
+}
